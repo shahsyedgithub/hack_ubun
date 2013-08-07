@@ -8,7 +8,7 @@ First give execution permission to all files. And run ubu_set.py
  [enter password]
  cd hack_ubu
  chmod +x *
- ./set-hack
+ ./ubu_set.py
  
  For any queries please contact me using 
  keshavbist19@hotmail.com, or
